@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EmployeeCrudApplication {
 
 	public static void main(String[] args) {
-		//change for github 2
+		//change for github
 		SpringApplication.run(EmployeeCrudApplication.class, args);
 	}
 
